@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+    border: 2px solid rgb(43, 134, 82);
+    width: 100;
+    display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+p{
+    color: rgb(170, 170, 220);
+    font-size: 200px;
+}
